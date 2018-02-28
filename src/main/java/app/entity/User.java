@@ -11,7 +11,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 
 /**
- * Classe que representa a tabela Edson Silva! teste Mateus da Bahia 2 alterado 223
+ * Classe que representa a tabela Edson Silva! teste Mateus da Bahia 2 alterado 223fgdfgdf
  * @generated
  */
 @Entity
