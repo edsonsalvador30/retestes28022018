@@ -11,7 +11,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 
 /**
- * Classe que representa a tabela Edson !
+ * Classe que representa a tabela Edson Silva!
  * @generated
  */
 @Entity
