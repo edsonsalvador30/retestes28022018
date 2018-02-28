@@ -11,7 +11,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 
 /**
- * Classe que representa a tabela USER
+ * Classe que representa a tabela USER2
  * @generated
  */
 @Entity
